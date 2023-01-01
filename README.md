@@ -8,5 +8,7 @@ Used by MadMiner project.</p>
 <p>https://mega.nz/#!VkQkHA6A!M5aamkDKftZQ2zWGjjikhTnIX3LpivARFg_uBQ84Eg0</p>
 <p>Password to unzip: MadMiner </p>
 
+![image](https://wayback.archive-it.org/16516/20210622060605im_/https://us.v-cdn.net/5021640/uploads/editor/xb/li3j07bb4mc6.png)
 
 https://wayback.archive-it.org/16516/20210622060605/https://forum.ethereum.org/discussion/17048/released-madminer-an-ethereum-dual-miner-for-amd-gpus
+
